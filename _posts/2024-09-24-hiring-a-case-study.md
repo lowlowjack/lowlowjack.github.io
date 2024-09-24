@@ -26,7 +26,7 @@ Team currently has
 
 There is a data scientist candidate coming in today for an interview, but what should I be thinking when hiring them? What does our company need at the current moment? My thought process behind whether to hire or not can be summarized as below, although it isn’t strictly numeric.  
 
-![Hiring priority diagram](/assets/img/hiringflowdiag.jpg "Hiring flow")
+![Hiring priority diagram]( {{'/assets/img/hiringflowdiag.jpg' | relative_url }} "Hiring flow")
 
 I start with a baseline of 5, (that’s my default belief, but it can adjust depending on the situation), and then adjust both ways as above. So in the example, above... 
 
